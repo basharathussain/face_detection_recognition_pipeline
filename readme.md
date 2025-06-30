@@ -1,7 +1,9 @@
 
 # Employee Face Recognition System
 
-![Demo Screenshot](./saved_frames/demo_screenshot.jpg) *Example of the system in action*
+![Demo Screenshot](./saved_frames/demo_screenshot.jpg) 
+
+*Example of the system in action*
 
 ## Features
 
