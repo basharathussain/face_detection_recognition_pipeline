@@ -1,5 +1,5 @@
 
-# Employee Face Recognition System
+# Employee Face Recognition System using "InsightFace"
 
 ![Demo Screenshot](./saved_frames/demo_screenshot.jpg) 
 
